@@ -12,7 +12,7 @@ execution_time
 
 clear all
 clc
-
+jljljljljljljljljl
 %apply the initial k-means clustering to find idx, k and the dataset X used
 %to calculate the rest
 %read the 100% healthy dataset to learn from. The data description is
