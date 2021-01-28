@@ -15,3 +15,6 @@ Please note that RkSE is evaluated and tested in our previously mentioned resear
 (1) Reduce the dimensionality in a multivariate classification problem using various classifiers of different functionalities. 
 (2) Classification of univariate data in a sliding window scenario, where RkSE is used as a window compression method, to reduce the window
 dimensionality by selecting the best time points in a sliding window.
+
+The sample dataset used in this code is the zoo dataset downloaded from the UCI machine learning depository:
+https://archive.ics.uci.edu/ml/datasets/Zoo
